@@ -65,9 +65,7 @@ Clone the repository:
 https://github.com/sAchyn119/weather-app.git
 
 
-Replace API_KEY in weather_app.py with your OpenWeatherMap API key.
-
-Usage
+# Usage
 
 Run the Python file:
 
